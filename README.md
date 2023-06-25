@@ -1,4 +1,4 @@
-# A series of Business Intelligence projects between Jupyter Notebook (Python) and Power BI
+# A series of Business Intelligence projects embedding Jupyter Notebook (Python) and Power BI
 
 This repository contains a series of projects focused on Python and Business Intelligence. Each project demonstrates a different aspect of integrating Python with Business Intelligence tools, specifically Power BI.
 
